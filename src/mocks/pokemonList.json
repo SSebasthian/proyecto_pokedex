@@ -1,0 +1,607 @@
+{
+  "count": 1292,
+  "next": "https://pokeapi.co/api/v2/pokemon?offset=100&limit=100",
+  "previous": null,
+  "results": [
+    {
+      "name": "bulbasaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/1/",
+      "id": 1,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"
+    },
+    {
+      "name": "ivysaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/2/",
+      "id": 2,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png"
+    },
+    {
+      "name": "venusaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/3/",
+      "id": 3,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png"
+    },
+    {
+      "name": "charmander",
+      "url": "https://pokeapi.co/api/v2/pokemon/4/",
+      "id": 4,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png"
+    },
+    {
+      "name": "charmeleon",
+      "url": "https://pokeapi.co/api/v2/pokemon/5/",
+      "id": 5,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png"
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/",
+      "id": 6,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png"
+    },
+    {
+      "name": "squirtle",
+      "url": "https://pokeapi.co/api/v2/pokemon/7/",
+      "id": 7,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png"
+    },
+    {
+      "name": "wartortle",
+      "url": "https://pokeapi.co/api/v2/pokemon/8/",
+      "id": 8,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png"
+    },
+    {
+      "name": "blastoise",
+      "url": "https://pokeapi.co/api/v2/pokemon/9/",
+      "id": 9,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png"
+    },
+    {
+      "name": "caterpie",
+      "url": "https://pokeapi.co/api/v2/pokemon/10/",
+      "id": 10,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png"
+    },
+    {
+      "name": "metapod",
+      "url": "https://pokeapi.co/api/v2/pokemon/11/",
+      "id": 11,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png"
+    },
+    {
+      "name": "butterfree",
+      "url": "https://pokeapi.co/api/v2/pokemon/12/",
+      "id": 12,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png"
+    },
+    {
+      "name": "weedle",
+      "url": "https://pokeapi.co/api/v2/pokemon/13/",
+      "id": 13,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png"
+    },
+    {
+      "name": "kakuna",
+      "url": "https://pokeapi.co/api/v2/pokemon/14/",
+      "id": 14,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/014.png"
+    },
+    {
+      "name": "beedrill",
+      "url": "https://pokeapi.co/api/v2/pokemon/15/",
+      "id": 15,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png"
+    },
+    {
+      "name": "pidgey",
+      "url": "https://pokeapi.co/api/v2/pokemon/16/",
+      "id": 16,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png"
+    },
+    {
+      "name": "pidgeotto",
+      "url": "https://pokeapi.co/api/v2/pokemon/17/",
+      "id": 17,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/017.png"
+    },
+    {
+      "name": "pidgeot",
+      "url": "https://pokeapi.co/api/v2/pokemon/18/",
+      "id": 18,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png"
+    },
+    {
+      "name": "rattata",
+      "url": "https://pokeapi.co/api/v2/pokemon/19/",
+      "id": 19,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png"
+    },
+    {
+      "name": "raticate",
+      "url": "https://pokeapi.co/api/v2/pokemon/20/",
+      "id": 20,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png"
+    },
+    {
+      "name": "spearow",
+      "url": "https://pokeapi.co/api/v2/pokemon/21/",
+      "id": 21,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png"
+    },
+    {
+      "name": "fearow",
+      "url": "https://pokeapi.co/api/v2/pokemon/22/",
+      "id": 22,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/022.png"
+    },
+    {
+      "name": "ekans",
+      "url": "https://pokeapi.co/api/v2/pokemon/23/",
+      "id": 23,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png"
+    },
+    {
+      "name": "arbok",
+      "url": "https://pokeapi.co/api/v2/pokemon/24/",
+      "id": 24,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/024.png"
+    },
+    {
+      "name": "pikachu",
+      "url": "https://pokeapi.co/api/v2/pokemon/25/",
+      "id": 25,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png"
+    },
+    {
+      "name": "raichu",
+      "url": "https://pokeapi.co/api/v2/pokemon/26/",
+      "id": 26,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png"
+    },
+    {
+      "name": "sandshrew",
+      "url": "https://pokeapi.co/api/v2/pokemon/27/",
+      "id": 27,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png"
+    },
+    {
+      "name": "sandslash",
+      "url": "https://pokeapi.co/api/v2/pokemon/28/",
+      "id": 28,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png"
+    },
+    {
+      "name": "nidoran-f",
+      "url": "https://pokeapi.co/api/v2/pokemon/29/",
+      "id": 29,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/029.png"
+    },
+    {
+      "name": "nidorina",
+      "url": "https://pokeapi.co/api/v2/pokemon/30/",
+      "id": 30,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/030.png"
+    },
+    {
+      "name": "nidoqueen",
+      "url": "https://pokeapi.co/api/v2/pokemon/31/",
+      "id": 31,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/031.png"
+    },
+    {
+      "name": "nidoran-m",
+      "url": "https://pokeapi.co/api/v2/pokemon/32/",
+      "id": 32,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/032.png"
+    },
+    {
+      "name": "nidorino",
+      "url": "https://pokeapi.co/api/v2/pokemon/33/",
+      "id": 33,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/033.png"
+    },
+    {
+      "name": "nidoking",
+      "url": "https://pokeapi.co/api/v2/pokemon/34/",
+      "id": 34,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/034.png"
+    },
+    {
+      "name": "clefairy",
+      "url": "https://pokeapi.co/api/v2/pokemon/35/",
+      "id": 35,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png"
+    },
+    {
+      "name": "clefable",
+      "url": "https://pokeapi.co/api/v2/pokemon/36/",
+      "id": 36,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/036.png"
+    },
+    {
+      "name": "vulpix",
+      "url": "https://pokeapi.co/api/v2/pokemon/37/",
+      "id": 37,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png"
+    },
+    {
+      "name": "ninetales",
+      "url": "https://pokeapi.co/api/v2/pokemon/38/",
+      "id": 38,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png"
+    },
+    {
+      "name": "jigglypuff",
+      "url": "https://pokeapi.co/api/v2/pokemon/39/",
+      "id": 39,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png"
+    },
+    {
+      "name": "wigglytuff",
+      "url": "https://pokeapi.co/api/v2/pokemon/40/",
+      "id": 40,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/040.png"
+    },
+    {
+      "name": "zubat",
+      "url": "https://pokeapi.co/api/v2/pokemon/41/",
+      "id": 41,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png"
+    },
+    {
+      "name": "golbat",
+      "url": "https://pokeapi.co/api/v2/pokemon/42/",
+      "id": 42,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/042.png"
+    },
+    {
+      "name": "oddish",
+      "url": "https://pokeapi.co/api/v2/pokemon/43/",
+      "id": 43,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png"
+    },
+    {
+      "name": "gloom",
+      "url": "https://pokeapi.co/api/v2/pokemon/44/",
+      "id": 44,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/044.png"
+    },
+    {
+      "name": "vileplume",
+      "url": "https://pokeapi.co/api/v2/pokemon/45/",
+      "id": 45,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/045.png"
+    },
+    {
+      "name": "paras",
+      "url": "https://pokeapi.co/api/v2/pokemon/46/",
+      "id": 46,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/046.png"
+    },
+    {
+      "name": "parasect",
+      "url": "https://pokeapi.co/api/v2/pokemon/47/",
+      "id": 47,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/047.png"
+    },
+    {
+      "name": "venonat",
+      "url": "https://pokeapi.co/api/v2/pokemon/48/",
+      "id": 48,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/048.png"
+    },
+    {
+      "name": "venomoth",
+      "url": "https://pokeapi.co/api/v2/pokemon/49/",
+      "id": 49,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/049.png"
+    },
+    {
+      "name": "diglett",
+      "url": "https://pokeapi.co/api/v2/pokemon/50/",
+      "id": 50,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png"
+    },
+    {
+      "name": "dugtrio",
+      "url": "https://pokeapi.co/api/v2/pokemon/51/",
+      "id": 51,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png"
+    },
+    {
+      "name": "meowth",
+      "url": "https://pokeapi.co/api/v2/pokemon/52/",
+      "id": 52,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png"
+    },
+    {
+      "name": "persian",
+      "url": "https://pokeapi.co/api/v2/pokemon/53/",
+      "id": 53,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png"
+    },
+    {
+      "name": "psyduck",
+      "url": "https://pokeapi.co/api/v2/pokemon/54/",
+      "id": 54,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/054.png"
+    },
+    {
+      "name": "golduck",
+      "url": "https://pokeapi.co/api/v2/pokemon/55/",
+      "id": 55,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/055.png"
+    },
+    {
+      "name": "mankey",
+      "url": "https://pokeapi.co/api/v2/pokemon/56/",
+      "id": 56,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/056.png"
+    },
+    {
+      "name": "primeape",
+      "url": "https://pokeapi.co/api/v2/pokemon/57/",
+      "id": 57,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/057.png"
+    },
+    {
+      "name": "growlithe",
+      "url": "https://pokeapi.co/api/v2/pokemon/58/",
+      "id": 58,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/058.png"
+    },
+    {
+      "name": "arcanine",
+      "url": "https://pokeapi.co/api/v2/pokemon/59/",
+      "id": 59,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png"
+    },
+    {
+      "name": "poliwag",
+      "url": "https://pokeapi.co/api/v2/pokemon/60/",
+      "id": 60,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/060.png"
+    },
+    {
+      "name": "poliwhirl",
+      "url": "https://pokeapi.co/api/v2/pokemon/61/",
+      "id": 61,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/061.png"
+    },
+    {
+      "name": "poliwrath",
+      "url": "https://pokeapi.co/api/v2/pokemon/62/",
+      "id": 62,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/062.png"
+    },
+    {
+      "name": "abra",
+      "url": "https://pokeapi.co/api/v2/pokemon/63/",
+      "id": 63,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/063.png"
+    },
+    {
+      "name": "kadabra",
+      "url": "https://pokeapi.co/api/v2/pokemon/64/",
+      "id": 64,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/064.png"
+    },
+    {
+      "name": "alakazam",
+      "url": "https://pokeapi.co/api/v2/pokemon/65/",
+      "id": 65,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png"
+    },
+    {
+      "name": "machop",
+      "url": "https://pokeapi.co/api/v2/pokemon/66/",
+      "id": 66,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/066.png"
+    },
+    {
+      "name": "machoke",
+      "url": "https://pokeapi.co/api/v2/pokemon/67/",
+      "id": 67,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/067.png"
+    },
+    {
+      "name": "machamp",
+      "url": "https://pokeapi.co/api/v2/pokemon/68/",
+      "id": 68,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/068.png"
+    },
+    {
+      "name": "bellsprout",
+      "url": "https://pokeapi.co/api/v2/pokemon/69/",
+      "id": 69,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/069.png"
+    },
+    {
+      "name": "weepinbell",
+      "url": "https://pokeapi.co/api/v2/pokemon/70/",
+      "id": 70,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/070.png"
+    },
+    {
+      "name": "victreebel",
+      "url": "https://pokeapi.co/api/v2/pokemon/71/",
+      "id": 71,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/071.png"
+    },
+    {
+      "name": "tentacool",
+      "url": "https://pokeapi.co/api/v2/pokemon/72/",
+      "id": 72,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/072.png"
+    },
+    {
+      "name": "tentacruel",
+      "url": "https://pokeapi.co/api/v2/pokemon/73/",
+      "id": 73,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/073.png"
+    },
+    {
+      "name": "geodude",
+      "url": "https://pokeapi.co/api/v2/pokemon/74/",
+      "id": 74,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/074.png"
+    },
+    {
+      "name": "graveler",
+      "url": "https://pokeapi.co/api/v2/pokemon/75/",
+      "id": 75,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png"
+    },
+    {
+      "name": "golem",
+      "url": "https://pokeapi.co/api/v2/pokemon/76/",
+      "id": 76,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png"
+    },
+    {
+      "name": "ponyta",
+      "url": "https://pokeapi.co/api/v2/pokemon/77/",
+      "id": 77,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/077.png"
+    },
+    {
+      "name": "rapidash",
+      "url": "https://pokeapi.co/api/v2/pokemon/78/",
+      "id": 78,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png"
+    },
+    {
+      "name": "slowpoke",
+      "url": "https://pokeapi.co/api/v2/pokemon/79/",
+      "id": 79,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/079.png"
+    },
+    {
+      "name": "slowbro",
+      "url": "https://pokeapi.co/api/v2/pokemon/80/",
+      "id": 80,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png"
+    },
+    {
+      "name": "magnemite",
+      "url": "https://pokeapi.co/api/v2/pokemon/81/",
+      "id": 81,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/081.png"
+    },
+    {
+      "name": "magneton",
+      "url": "https://pokeapi.co/api/v2/pokemon/82/",
+      "id": 82,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/082.png"
+    },
+    {
+      "name": "farfetchd",
+      "url": "https://pokeapi.co/api/v2/pokemon/83/",
+      "id": 83,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png"
+    },
+    {
+      "name": "doduo",
+      "url": "https://pokeapi.co/api/v2/pokemon/84/",
+      "id": 84,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/084.png"
+    },
+    {
+      "name": "dodrio",
+      "url": "https://pokeapi.co/api/v2/pokemon/85/",
+      "id": 85,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/085.png"
+    },
+    {
+      "name": "seel",
+      "url": "https://pokeapi.co/api/v2/pokemon/86/",
+      "id": 86,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/086.png"
+    },
+    {
+      "name": "dewgong",
+      "url": "https://pokeapi.co/api/v2/pokemon/87/",
+      "id": 87,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/087.png"
+    },
+    {
+      "name": "grimer",
+      "url": "https://pokeapi.co/api/v2/pokemon/88/",
+      "id": 88,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/088.png"
+    },
+    {
+      "name": "muk",
+      "url": "https://pokeapi.co/api/v2/pokemon/89/",
+      "id": 89,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png"
+    },
+    {
+      "name": "shellder",
+      "url": "https://pokeapi.co/api/v2/pokemon/90/",
+      "id": 90,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/090.png"
+    },
+    {
+      "name": "cloyster",
+      "url": "https://pokeapi.co/api/v2/pokemon/91/",
+      "id": 91,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/091.png"
+    },
+    {
+      "name": "gastly",
+      "url": "https://pokeapi.co/api/v2/pokemon/92/",
+      "id": 92,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/092.png"
+    },
+    {
+      "name": "haunter",
+      "url": "https://pokeapi.co/api/v2/pokemon/93/",
+      "id": 93,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/093.png"
+    },
+    {
+      "name": "gengar",
+      "url": "https://pokeapi.co/api/v2/pokemon/94/",
+      "id": 94,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png"
+    },
+    {
+      "name": "onix",
+      "url": "https://pokeapi.co/api/v2/pokemon/95/",
+      "id": 95,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/095.png"
+    },
+    {
+      "name": "drowzee",
+      "url": "https://pokeapi.co/api/v2/pokemon/96/",
+      "id": 96,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/096.png"
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "id": 97,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/097.png"
+    },
+    {
+      "name": "krabby",
+      "url": "https://pokeapi.co/api/v2/pokemon/98/",
+      "id": 98,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/098.png"
+    },
+    {
+      "name": "kingler",
+      "url": "https://pokeapi.co/api/v2/pokemon/99/",
+      "id": 99,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/099.png"
+    },
+    {
+      "name": "voltorb",
+      "url": "https://pokeapi.co/api/v2/pokemon/100/",
+      "id": 100,
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png"
+    }
+  ]
+}
